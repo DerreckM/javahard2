@@ -1,0 +1,8 @@
+Bob     30    Bob     30   0
+Alice   25    Bob     30  -1
+Bob     25    Alice   30   1
+Carol   35    Eve     35  -1
+Eve     35    Carol   35   1
+Mallory 40    Mallory 40   0
+Mallory 20    Mallory 40  -1
+Mallory 40    Mallory 20   1
